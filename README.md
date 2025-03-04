@@ -6,4 +6,6 @@ Hello! My name is Bryle Drexler Z. Velasquez, and I’m 18 years old. I have a p
 - College: City College of Angeles
 - Senior Highschool: System Plus College Foundation
 - Junior Highschool: Angeles City National Highschool
-  
+## My Projects
+ Midterm Lab Task 1: 
+
