@@ -7,5 +7,5 @@ Hello! My name is Bryle Drexler Z. Velasquez, and I’m 18 years old. I have a p
 - Senior Highschool: System Plus College Foundation
 - Junior Highschool: Angeles City National Highschool
 ## My Projects
- Midterm Lab Task 1:[Data Cleaning and Preparation using Excel](https://docs.google.com/spreadsheets/d/1gRY0lr09uzrdYjYWQSl2-x2xrgOr6XviLxcmuviNRDo/edit?gid=899905213#gid=899905213).
+ Midterm Lab Task 1:[Data Cleaning and Preparation using Excel]
 
