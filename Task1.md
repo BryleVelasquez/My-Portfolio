@@ -10,6 +10,14 @@ In this task we were given a file that have many errors and we need to clean the
 - Handle Error with IFERROR
 - Number Formats
 - Find & Replace
-## This is what the file looks before
-![image](https://github.com/user-attachments/assets/64826446-e3d7-4d2b-a813-5a95cbb47157)
+## Part 2. NORMALIZED the worksheet and create necessary ID’s if needed and split the worksheet into necessary tables
+## Part 3. Use Power Query Editor to create the Relational Data Model
+### This is What The File Looks Like Before
+![image](https://github.com/user-attachments/assets/bba1ae10-b01e-4389-b844-052e34da46fc)
+### And This is After
+![image](https://github.com/user-attachments/assets/b43d9699-6b3b-46ca-865b-e111616d963b)
+![image](https://github.com/user-attachments/assets/e7cce539-f6cc-4aa5-a9a3-2d0a85af44c0)
+
+
+
 
