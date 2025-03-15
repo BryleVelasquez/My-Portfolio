@@ -1,14 +1,14 @@
 # 𝐌𝐢𝐝𝐭𝐞𝐫𝐦 𝐋𝐚𝐛 𝐓𝐚𝐬𝐤 𝟐: 𝐃𝐚𝐭𝐚 𝐂𝐥𝐞𝐚𝐧𝐢𝐧𝐠 𝐚𝐧𝐝 𝐓𝐫𝐚𝐧𝐬𝐟𝐨𝐫𝐦𝐚𝐭𝐢𝐨𝐧 𝐔𝐬𝐢𝐧𝐠 𝐏𝐨𝐰𝐞𝐫 𝐐𝐮𝐞𝐫𝐲 𝐄𝐝𝐢𝐭𝐨𝐫
 To extract useful information from the file UncleanedDSJObs.csv taken from a Job Posting site available in Kaggle.  
-## 𝐓𝐨 𝐟𝐢𝐧𝐝 𝐨𝐮𝐭:
-Which Job Roles pay the highest and least
-What size companies pay the best
-Where Job Roles or Job Titles pay the best and least in a specific state
-## 𝐃𝐚𝐭𝐚𝐬𝐞𝐭 𝐁𝐞𝐟𝐨𝐫𝐞 𝐂𝐥𝐞𝐚𝐧𝐢𝐧𝐠 𝐚𝐧𝐝 𝐓𝐫𝐚𝐧𝐬𝐟𝐨𝐫𝐦𝐚𝐭𝐢𝐨𝐧:
+## 𝓞𝓫𝓳𝓮𝓬𝓽𝓲𝓿𝓮𝓼: 
+- to find out Which Job Roles pay the highest and least
+- to find out What size companies pay the best
+- to find out Where Job Roles or Job Titles pay the best and least in a specific state
+## 𝓓𝓪𝓽𝓪 𝓢𝓮𝓽 𝓑𝓮𝓯𝓸𝓻𝓮  𝓒𝓵𝓮𝓪𝓷𝓲𝓷𝓰 𝓐𝓷𝓭 𝓣𝓻𝓪𝓷𝓼𝓯𝓸𝓻𝓶𝓪𝓽𝓲𝓸𝓷:
 ![image](https://github.com/user-attachments/assets/40df216b-3bbe-4073-a47c-d7412e472515)
 
 
-## 𝐒𝐭𝐞𝐩𝐬 𝐏𝐞𝐫𝐟𝐨𝐫𝐦𝐞𝐝 𝐢𝐧 𝐃𝐚𝐭𝐚 𝐂𝐥𝐞𝐚𝐧𝐢𝐧𝐠 𝐚𝐧𝐝 𝐓𝐫𝐚𝐧𝐬𝐟𝐨𝐫𝐦𝐚𝐭𝐢𝐨𝐧:
+## 𝓢𝓽𝓮𝓹𝓼 𝓟𝓮𝓻𝓯𝓸𝓻𝓶𝓮𝓭 𝓲𝓷 𝓓𝓪𝓽𝓪 𝓒𝓵𝓮𝓪𝓷𝓲𝓷𝓰 𝓪𝓷𝓭 𝓣𝓻𝓪𝓷𝓼𝓯𝓸𝓻𝓶𝓪𝓽𝓲𝓸𝓷:
 - Duplicated the raw data to preserve the original.  
 - Cleaned the salary estimate column by removing everything after the "(" symbol.  
 - Created Min Sal and Max Sal columns from the salary estimate.  
@@ -28,19 +28,19 @@ Where Job Roles or Job Titles pay the best and least in a specific state
 - Created a reference as Sal By State ref, selected State Full Name, Min Sal, and Max Sal, multiplied salaries by 1000, and grouped by State Full Name to get average salaries.  
 - Checked query dependencies to confirm correct relationships.  
 
-## 𝐅𝐢𝐧𝐚𝐥 𝐎𝐮𝐭𝐩𝐮𝐭
-### 𝐂𝐥𝐞𝐚𝐧𝐞𝐝 𝐃𝐚𝐭𝐚
+## 𝓕𝓲𝓷𝓪𝓵 𝓞𝓾𝓽𝓹𝓾𝓽
+### 𝓒𝓵𝓮𝓪𝓷𝓮𝓭 𝓓𝓪𝓽𝓪 ⭐
 ![cleaned](https://github.com/user-attachments/assets/90b08a6c-6752-49bf-b9a3-1bc94db1586a)
 
-### 𝐒𝐚𝐥 𝐁𝐲 𝐑𝐨𝐥𝐞 𝐓𝐲𝐩𝐞 𝐃𝐮𝐩
+### 𝓢𝓪𝓵 𝓑𝔂 𝓡𝓸𝓵𝓮 𝓣𝔂𝓹𝓮 𝓓𝓾𝓹 ⭐
 ![02](https://github.com/user-attachments/assets/813828ae-153c-40df-85f2-1dc2a421e3c6)
 
-### 𝐒𝐚𝐥 𝐁𝐲 𝐑𝐨𝐥𝐞 𝐒𝐢𝐳𝐞 𝐑𝐞𝐟
+### 𝓢𝓪𝓵 𝓫𝔂 𝓡𝓸𝓵𝓮 𝓢𝓲𝔃𝓮 𝓡𝓮𝓯 ⭐
 ![03](https://github.com/user-attachments/assets/4f7f9370-c2ac-4db5-88f7-ca13b170e17f)
 
-### 𝐒𝐚𝐥 𝐁𝐲 𝐒𝐭𝐚𝐭𝐞 𝐑𝐞𝐟
+### 𝓢𝓪𝓵 𝓫𝔂 𝓢𝓽𝓪𝓽𝓮 𝓡𝓮𝓯 ⭐
 ![05](https://github.com/user-attachments/assets/918d9573-db3e-44fa-a23a-21cb714f3b09)
 
-### 𝐐𝐮𝐞𝐫𝐲 𝐃𝐞𝐩𝐞𝐧𝐝𝐞𝐧𝐜𝐢𝐞𝐬
+### 𝓠𝓾𝓮𝓻𝔂 𝓓𝓮𝓹𝓮𝓷𝓭𝓮𝓷𝓬𝓲𝓮𝓼 ⭐
 ![query dependencies](https://github.com/user-attachments/assets/044c4320-8233-4763-b535-f87e3fc80f3f)
 
