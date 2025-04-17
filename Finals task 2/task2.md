@@ -6,3 +6,7 @@
 ### Table for Sumission
 ![image](https://github.com/user-attachments/assets/dceefffd-0e52-4a38-b008-0a06f914ee09)
 ![image](https://github.com/user-attachments/assets/dfb3c394-f4c9-40e6-aabb-1b4234afe424)
+### ER Diagram
+
+![image](https://github.com/user-attachments/assets/0825a955-fa19-497f-95ba-5f26e95b34a0)
+
