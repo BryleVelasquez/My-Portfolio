@@ -17,7 +17,8 @@ Hello! My name is Bryle Drexler Z. Velasquez, and I’m 18 years old. I have a p
 ## 𝓜𝔂 𝓕𝓲𝓷𝓪𝓵𝓼 𝓟𝓻𝓸𝓳𝓮𝓬𝓽 🌌
  Finals Lab Task 1:[MYSQL Basics](https://github.com/BryleVelasquez/My-Portfolio/blob/main/Finals%20Task%201/erd.md).\
  Finals Lab Task 2:[Transforming ER into Relational Tables](https://github.com/BryleVelasquez/My-Portfolio/blob/main/Finals%20task%202/task2.md).\
- Finals Lab Task 3:[Table Manipulation](https://github.com/BryleVelasquez/My-Portfolio/blob/main/Finals%20Task%203/task3.md)
+ Finals Lab Task 3:[Table Manipulation](https://github.com/BryleVelasquez/My-Portfolio/blob/main/Finals%20Task%203/task3.md).\
+ Finals lab Task 4:[Using SELECT statement](https://github.com/BryleVelasquez/My-Portfolio/blob/main/Final%20Task%204/task%204.md)
 ## 𝓜𝔂 𝓢𝓸𝓬𝓲𝓪𝓵𝓼 📬
 **Facebook:** [BryleDrexler](https://www.facebook.com/bryle.drexler.9).
 
