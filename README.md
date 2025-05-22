@@ -20,7 +20,7 @@ Hello! My name is Bryle Drexler Z. Velasquez, and I’m 18 years old. I have a p
  Finals Lab Task 3:[Table Manipulation](https://github.com/BryleVelasquez/My-Portfolio/blob/main/Finals%20Task%203/task3.md).\
  Finals lab Task 4:[Using SELECT statement](https://github.com/BryleVelasquez/My-Portfolio/blob/main/Final%20Task%204/task%204.md).\
  Finals lab Task 5:[Using SQL views and Stored Procedures and Stored Functions](https://github.com/BryleVelasquez/My-Portfolio/blob/main/Finals%20Task%205/Lab%20Task%205.md).\
- Finals lab Task 6:[Finals Practice Task MongoDB](https://github.com/BryleVelasquez/My-Portfolio/blob/main/Finals%20Lab%206/Task%206.md)\
+ Finals lab Task 6:[Finals Practice Task MongoDB](https://github.com/BryleVelasquez/My-Portfolio/blob/main/Finals%20Lab%206/Task%206.md)
 ## 𝓜𝔂 𝓢𝓸𝓬𝓲𝓪𝓵𝓼 📬
 **Facebook:** [BryleDrexler](https://www.facebook.com/bryle.drexler.9).
 
